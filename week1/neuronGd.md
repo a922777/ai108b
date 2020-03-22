@@ -6,7 +6,7 @@ x   y | o = and(x,y)
 1   0 | 0     x2 y2 o2
 1   1 | 1     x3 y3 o3
 
-sig(w1*x + w2*y + b) = o /n
+sig(w1*x + w2*y + b) = o /t
 sig(w1*0 + w2*0 + b) = o0   => 0
 sig(w1*0 + w2*1 + b) = o1   => 0
 sig(w1*1 + w2*0 + b) = o2   => 0
