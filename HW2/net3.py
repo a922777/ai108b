@@ -11,4 +11,4 @@ o = net.add(x2, y2)
 o2 = net.add(o, z2)
 
 net.gradient_descendent()
-print('x =', x.v, 'y =', y.v, 'z =', z.v)
+print('x =>', x.v, '\ny =>', y.v, '\nz =>', z.v)
