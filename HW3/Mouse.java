@@ -31,7 +31,7 @@ class Mouse
 		if(y>0&&m[x][y-1]==' ')//向左
 			if (findPath(m, x,y-1)) return true;
 		if(x>0&&m[x-1][y]==' ')//向上
-		if (findPath(m, x-1,y)) return true;
+			if (findPath(m, x-1,y)) return true;
 		m[x][y]='.';
 		return false; 
     }
