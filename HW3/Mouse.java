@@ -24,13 +24,13 @@ class Mouse
 		if (m[x][y] == ' ') m[x][y] = '.';
 		if (m[x][y] == '.' && (x == 5 || y==7)) 
 			return true;
-		if (y<7&&m[x][y+1]==' ')//¦V¥k
+		if (y<7&&m[x][y+1]==' ')//å‘å³
 			if (findPath(m, x,y+1)) return true;
-		if(x<5&&m[x+1][y]==' ')//¦V¤U
+		if(x<5&&m[x+1][y]==' ')//å‘ä¸‹
 			if (findPath(m, x+1,y)) return true;
-		if(y>0&&m[x][y-1]==' ')//¦V¥ª
+		if(y>0&&m[x][y-1]==' ')//å‘å·¦
 			if (findPath(m, x,y-1)) return true;
-		if(x>0&&m[x-1][y]==' ')//¦V¤W
+		if(x>0&&m[x-1][y]==' ')//å‘ä¸Š
 		if (findPath(m, x-1,y)) return true;
 		m[x][y]='.';
 		return false; 
