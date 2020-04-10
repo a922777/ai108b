@@ -1,6 +1,5 @@
 class Mouse
 {
-    
 	public static void matrixPrint(char m[][]) {
         for(char[]row:m)
 		{
