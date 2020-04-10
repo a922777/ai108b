@@ -10,7 +10,7 @@ class Mouse
 		}
     }
 	
-	/*public static String strset(String s,int i,char c) {
+	/*public static strset(String s,int i,char c) {
         return s.substring(0, i) + c + s.substring(i+1);
     }*/
 	
