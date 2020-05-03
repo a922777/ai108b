@@ -1,6 +1,6 @@
 import numpy as np
 import math
-import gd3 as gd
+import gd as gd
 
 def sig(t):
     return 1.0/(1.0+math.exp(-t))
