@@ -44,15 +44,16 @@
 	Acuuracy:  0.9473684210526315
 	['sepal length (cm)', 'sepal width (cm)', 'petal length (cm)', 'petal width (cm)']
 	Feature importance:  [0.08205501 0.01035056 0.42839105 0.47920338]
-	
+
 	200 顆樹，每棵樹的最大深度為 40
 	print出來的值:
 	Acuuracy:  0.9777777777777777
 	['sepal length (cm)', 'sepal width (cm)', 'petal length (cm)', 'petal width (cm)']
 	Feature importance:  [0.08533722 0.03421342 0.44261819 0.43783116]
 
-	得到的結果，知道了準確率(accuracy)會隨著樹的增加而提高
-	特徵重要性 (Feature importance)也會有明顯的提高
+	print出來的數值，知道了樹的數量跟深度會影響結果
+	準確率(accuracy)會隨著樹的增加而提高
+	特徵重要性 (Feature importance)也會有改變
 
 
 參考資料
