@@ -27,6 +27,7 @@
 	accuracy(y,ŷ )=1nsamples∑i=0nsamples−1l(ŷ i=yi)accuracy(y,y^)=1nsamples∑i=0nsamples−1l(y^i=yi)
 	
 	特徵名稱 (feature_names)
+	用鳶尾花(iris)來說明
 	1. 花萼長度(Sepal Length)：計算單位是公分
 	2. 花萼寬度(Sepal Width)：計算單位是公分
 	3. 花瓣長度(Petal Length) ：計算單位是公分
