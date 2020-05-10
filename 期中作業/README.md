@@ -27,7 +27,7 @@
 	accuracy(y,ŷ )=1nsamples∑i=0nsamples−1l(ŷ i=yi)accuracy(y,y^)=1nsamples∑i=0nsamples−1l(y^i=yi)
 	
 	特徵名稱 (feature_names)
-	以鳶尾花(iris)來說明
+	以鳶尾花(iris)來說明:
 	1. 花萼長度(Sepal Length)：計算單位是公分
 	2. 花萼寬度(Sepal Width)：計算單位是公分
 	3. 花瓣長度(Petal Length) ：計算單位是公分
@@ -39,7 +39,7 @@
 	
 	練習的範例中我測試了3種資料集(iris,boston, wine)並更改了決策樹的數量，與每棵樹的最大深度，
 	以鳶尾花(iris)為例
-	20 顆樹，每棵樹的最大深度為 4
+	使用20 顆樹，每棵樹的最大深度為 4
 	clf = RandomForestClassifier(
 	      n_estimators=20, 
 	      max_depth=4,
@@ -53,7 +53,7 @@
 	['sepal length (cm)', 'sepal width (cm)', 'petal length (cm)', 'petal width (cm)']
 	Feature importance:  [0.08205501 0.01035056 0.42839105 0.47920338]
 
-	200 顆樹，每棵樹的最大深度為 40
+	使用200 顆樹，每棵樹的最大深度為 40
 	clf = RandomForestClassifier(
 	      n_estimators=200, 
 	      max_depth=40,
