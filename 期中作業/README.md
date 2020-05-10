@@ -37,12 +37,14 @@
 	所有 feature importance 的總和為 1
 	
 	練習的範例中我更改了決策樹的數量，與每棵樹的最大深度，
-	分別為 
+	分別為:
 	20 顆樹，每棵樹的最大深度為 4
+	print出來的值:
 	Acuuracy:  0.9473684210526315
 	['sepal length (cm)', 'sepal width (cm)', 'petal length (cm)', 'petal width (cm)']
 	Feature importance:  [0.08205501 0.01035056 0.42839105 0.47920338]
-
+	
+	print出來的值:
 	200 顆樹，每棵樹的最大深度為 40
 	Acuuracy:  0.9777777777777777
 	['sepal length (cm)', 'sepal width (cm)', 'petal length (cm)', 'petal width (cm)']
