@@ -8,7 +8,7 @@
 
 	模型參數
 	n_estimators= 決策樹的數量
-	Criterion: 衡量資料相似程度的 
+	Criterion: 衡量資料相似程度
 	max_features= 如何選取 features
 	max_depth: 樹能生長的最深限制
 	Min_samples_split: 至少要多少樣本以上才進行切分
