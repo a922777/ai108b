@@ -27,9 +27,9 @@
 	accuracy(y,ŷ )=1nsamples∑i=0nsamples−1l(ŷ i=yi)accuracy(y,y^)=1nsamples∑i=0nsamples−1l(y^i=yi)
 
 	隨機森林樹的特徵重要性 (Feature importance)
-	我們可以從構建樹的過程中，透過 feature 被⽤用來切分的次數，來得知哪些features 是相對有用的
+	我們可以從構建樹的過程中，透過 feature 被用來切分的次數，來得知哪些features 是相對有用的
 	所有 feature importance 的總和為 1
-	實務上可以使用 feature importance 來了解模型如何進行分類圖片
+
 
 
 
