@@ -44,8 +44,8 @@
 	['sepal length (cm)', 'sepal width (cm)', 'petal length (cm)', 'petal width (cm)']
 	Feature importance:  [0.08205501 0.01035056 0.42839105 0.47920338]
 	
-	print出來的值:
 	200 顆樹，每棵樹的最大深度為 40
+	print出來的值:
 	Acuuracy:  0.9777777777777777
 	['sepal length (cm)', 'sepal width (cm)', 'petal length (cm)', 'petal width (cm)']
 	Feature importance:  [0.08533722 0.03421342 0.44261819 0.43783116]
