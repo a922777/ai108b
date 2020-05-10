@@ -52,7 +52,7 @@
 	Feature importance:  [0.08533722 0.03421342 0.44261819 0.43783116]
 
 	得到的結果，知道了準確率(accuracy)會隨著樹的增加而提高
-	特徵重要性 (Feature importance)也有明顯的提高
+	特徵重要性 (Feature importance)也會有明顯的提高
 
 
 參考資料
