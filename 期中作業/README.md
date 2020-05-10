@@ -37,7 +37,7 @@
 	我們可以從構建樹的過程中，透過 feature 被用來切分的次數，來得知哪些features是相對有用的
 	所有 feature importance 的總和為 1
 	
-	練習的範例中我測試了3種資料集(iris,boston, wine)並更改了決策樹的數量，與每棵樹的最大深度，
+	練習的範例中我測試了3種資料集(iris,boston,wine)並更改了決策樹的數量，與每棵樹的最大深度，
 	以鳶尾花(iris)為例
 	使用20 顆樹，每棵樹的最大深度為 4
 	clf = RandomForestClassifier(
