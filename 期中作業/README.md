@@ -35,6 +35,22 @@
 	隨機森林樹的特徵重要性 (Feature importance)
 	我們可以從構建樹的過程中，透過 feature 被用來切分的次數，來得知哪些features是相對有用的
 	所有 feature importance 的總和為 1
+	
+	練習的範例中我更改了決策樹的數量，與每棵樹的最大深度，
+	分別為 
+	20 顆樹，每棵樹的最大深度為 4
+	Acuuracy:  0.9473684210526315
+	['sepal length (cm)', 'sepal width (cm)', 'petal length (cm)', 'petal width (cm)']
+	Feature importance:  [0.08205501 0.01035056 0.42839105 0.47920338]
+
+	200 顆樹，每棵樹的最大深度為 40
+	Acuuracy:  0.9777777777777777
+	['sepal length (cm)', 'sepal width (cm)', 'petal length (cm)', 'petal width (cm)']
+	Feature importance:  [0.08533722 0.03421342 0.44261819 0.43783116]
+
+	得到的結果，知道了準確率(accuracy)會隨著樹的增加而提高
+	特徵重要性 (Feature importance)也有明顯的提高
+
 
 參考資料
 [scikit](https://scikit-learn.org/dev/modules/ensemble.html)
