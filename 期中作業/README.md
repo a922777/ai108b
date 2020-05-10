@@ -1,4 +1,4 @@
-	隨機森林說明(Random Forest)
+	隨機森林樹說明(Random Forest)
 	集成(Ensemble)是將多個模型的結果組合在一起，透過投票或是加權的
 	方式得到最終結果。
 
@@ -26,7 +26,7 @@
 	預測值與真實值的準確率，在n個樣本下的計算公式如下：
 	accuracy(y,ŷ )=1nsamples∑i=0nsamples−1l(ŷ i=yi)accuracy(y,y^)=1nsamples∑i=0nsamples−1l(y^i=yi)
 
-	決策樹的特徵重要性 (Feature importance)
+	隨機森林樹的特徵重要性 (Feature importance)
 	我們可以從構建樹的過程中，透過 feature 被⽤用來切分的次數，來得知哪些features 是相對有用的
 	所有 feature importance 的總和為 1
 	實務上可以使用 feature importance 來了解模型如何進行分類圖片
