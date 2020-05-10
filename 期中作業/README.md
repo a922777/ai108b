@@ -40,13 +40,29 @@
 	練習的範例中我測試了3種資料集(iris,boston, wine)並更改了決策樹的數量，與每棵樹的最大深度，
 	以鳶尾花(iris)為例
 	20 顆樹，每棵樹的最大深度為 4
-	print出來的值:
+	clf = RandomForestClassifier(
+	      n_estimators=20, 
+	      max_depth=4,
+	      criterion = 'gini',
+	      max_features = 'auto',
+	      min_samples_split = 2,
+	      min_samples_leaf = 1
+	      )
+	print:
 	Acuuracy:  0.9473684210526315
 	['sepal length (cm)', 'sepal width (cm)', 'petal length (cm)', 'petal width (cm)']
 	Feature importance:  [0.08205501 0.01035056 0.42839105 0.47920338]
 
 	200 顆樹，每棵樹的最大深度為 40
-	print出來的值:
+	clf = RandomForestClassifier(
+	      n_estimators=200, 
+	      max_depth=40,
+	      criterion = 'gini',
+	      max_features = 'auto',
+	      min_samples_split = 2,
+	      min_samples_leaf = 1
+	)  
+	print
 	Acuuracy:  0.9777777777777777
 	['sepal length (cm)', 'sepal width (cm)', 'petal length (cm)', 'petal width (cm)']
 	Feature importance:  [0.08533722 0.03421342 0.44261819 0.43783116]
