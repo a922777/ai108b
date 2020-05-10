@@ -27,7 +27,7 @@
 	accuracy(y,ŷ )=1nsamples∑i=0nsamples−1l(ŷ i=yi)accuracy(y,y^)=1nsamples∑i=0nsamples−1l(y^i=yi)
 	
 	特徵名稱 (feature_names)
-	用鳶尾花(iris)來說明
+	以鳶尾花(iris)來說明
 	1. 花萼長度(Sepal Length)：計算單位是公分
 	2. 花萼寬度(Sepal Width)：計算單位是公分
 	3. 花瓣長度(Petal Length) ：計算單位是公分
@@ -38,7 +38,7 @@
 	所有 feature importance 的總和為 1
 	
 	練習的範例中我測試了3種資料集(iris,boston, wine)並更改了決策樹的數量，與每棵樹的最大深度，
-	用鳶尾花(iris)來說明
+	以鳶尾花(iris)為例
 	20 顆樹，每棵樹的最大深度為 4
 	print出來的值:
 	Acuuracy:  0.9473684210526315
