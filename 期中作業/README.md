@@ -33,7 +33,7 @@
 	4. 花瓣寬度(Petal Width)：計算單位是公分
 
 	隨機森林樹的特徵重要性 (Feature importance)
-	我們可以從構建樹的過程中，透過 feature 被用來切分的次數，來得知哪些features 是相對有用的
+	我們可以從構建樹的過程中，透過 feature 被用來切分的次數，來得知哪些features是相對有用的
 	所有 feature importance 的總和為 1
 
 參考資料
