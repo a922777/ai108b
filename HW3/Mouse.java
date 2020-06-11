@@ -1,5 +1,6 @@
 class Mouse
 {
+	//¦L¥X¦a¹Ï(§¹¥þ²z¸Ñ)
 	public static void matrixPrint(char m[][]) {
         for(char[]row:m)
 		{
@@ -9,10 +10,11 @@ class Mouse
 		}
     }
 	
+	//¤£²z¸Ñ
 	/*public static strset(String s,int i,char c) {
         return s.substring(0, i) + c + s.substring(i+1);
     }*/
-	
+	//¸ô½u·j´M(§¹¥þ²z¸Ñ)
 	public static boolean findPath(char m[][], int x, int y) {
 		System.out.println("=========================");
 		System.out.println("x=" +x+" y="+y);
@@ -23,18 +25,18 @@ class Mouse
 		if (m[x][y] == ' ') m[x][y] = '.';
 		if (m[x][y] == '.' && (x == 5 || y==7)) 
 			return true;
-		if (y<7&&m[x][y+1]==' ')//å‘å³
+		if (y<7&&m[x][y+1]==' ')//¦V¥k
 			if (findPath(m, x,y+1)) return true;
-		if(x<5&&m[x+1][y]==' ')//å‘ä¸‹
+		if(x<5&&m[x+1][y]==' ')//¦V¤U
 			if (findPath(m, x+1,y)) return true;
-		if(y>0&&m[x][y-1]==' ')//å‘å·¦
+		if(y>0&&m[x][y-1]==' ')//¦V¥ª
 			if (findPath(m, x,y-1)) return true;
-		if(x>0&&m[x-1][y]==' ')//å‘ä¸Š
+		if(x>0&&m[x-1][y]==' ')//¦V¤W
 			if (findPath(m, x-1,y)) return true;
 		m[x][y]='.';
 		return false; 
     }
-	
+	//¦a¹Ï(§¹¥þ²z¸Ñ)
 	public static void main(String arges[])
     {
         char m[][]={
