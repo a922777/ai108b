@@ -10,7 +10,7 @@ class Mouse
 		}
     }
 	
-	//不理解(有寫沒寫程式好像不影響)
+	//不理解(此行有寫沒寫 程式好像不影響?)
 	/*public static strset(String s,int i,char c) {
         return s.substring(0, i) + c + s.substring(i+1);
     }*/
