@@ -6,13 +6,18 @@
 	而隨機森林的每一顆樹在生成過程中，都是隨機使用一部份的訓練資料與特徵
 	代表每棵樹都是隨機的資料訓練而成的。
 
-##模型參數
-	n_estimators= 決策樹的數量
-	Criterion: 衡量資料相似程度
-	max_features= 如何選取 features
-	max_depth: 樹能生長的最深限制
-	Min_samples_split: 至少要多少樣本以上才進行切分
-	Min_samples_lear: 最終的葉子 (節點) 上至少要有多少樣本
+## 模型參數
+n_estimators= 決策樹的數量
+
+Criterion: 衡量資料相似程度
+
+max_features= 如何選取 features
+
+max_depth: 樹能生長的最深限制
+
+Min_samples_split: 至少要多少樣本以上才進行切分
+
+Min_samples_lear: 最終的葉子 (節點) 上至少要有多少樣本
 
 	訊息增益 (Information Gain)
 	決策樹模型會用 features 切分資料，該選用哪個 feature 來切分則是由訊息
