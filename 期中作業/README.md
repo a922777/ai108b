@@ -37,14 +37,14 @@ Min_samples_lear: 最終的葉子 (節點) 上至少要有多少樣本
 
 accuracy(y,ŷ )=1nsamples∑i=0nsamples−1l(ŷ i=yi)accuracy(y,y^)=1nsamples∑i=0nsamples−1l(y^i=yi)
 	
-	特徵名稱 (feature_names)
+## 特徵名稱 (feature_names)
 	以鳶尾花(iris)來說明:
 	1. 花萼長度(Sepal Length)：計算單位是公分
 	2. 花萼寬度(Sepal Width)：計算單位是公分
 	3. 花瓣長度(Petal Length) ：計算單位是公分
 	4. 花瓣寬度(Petal Width)：計算單位是公分
 
-	隨機森林樹的特徵重要性 (Feature importance)
+## 隨機森林樹的特徵重要性 (Feature importance)
 	我們可以從構建樹的過程中，透過 feature 被用來切分的次數，來得知哪些features是相對有用的
 	所有 feature importance 的總和為 1
 	
