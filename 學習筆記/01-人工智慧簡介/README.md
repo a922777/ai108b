@@ -38,5 +38,5 @@
 ## 感想(原創)
 
 
-## 其他內容轉載至
+## 其他內容節錄至
 http://163.28.10.78/content/senior/computer/ks_ks/et/ai/chap1/index.htm
