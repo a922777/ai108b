@@ -85,7 +85,7 @@ accuracy(y,ŷ )=1nsamples∑i=0nsamples−1l(ŷ i=yi)accuracy(y,y^)=1nsamples�
 	['sepal length (cm)', 'sepal width (cm)', 'petal length (cm)', 'petal width (cm)']
 	Feature importance:  [0.08533722 0.03421342 0.44261819 0.43783116]
 	
-## 結論(100%原創)
+## 結論(我的看法)
 print出來的數值，知道了樹的數量跟深度會影響結果
 
 準確率(accuracy)會隨著樹的增加而提高
