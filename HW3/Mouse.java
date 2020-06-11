@@ -1,6 +1,6 @@
 class Mouse
 {
-	//¦L¥X¦a¹Ï(§¹¥ş²z¸Ñ)
+	//å°å‡ºåœ°åœ–(å®Œå…¨ç†è§£)
 	public static void matrixPrint(char m[][]) {
         for(char[]row:m)
 		{
@@ -10,11 +10,11 @@ class Mouse
 		}
     }
 	
-	//¤£²z¸Ñ
+	//ä¸ç†è§£(æœ‰å¯«æ²’å¯«ç¨‹å¼å¥½åƒä¸å½±éŸ¿)
 	/*public static strset(String s,int i,char c) {
         return s.substring(0, i) + c + s.substring(i+1);
     }*/
-	//¸ô½u·j´M(§¹¥ş²z¸Ñ)
+	//è·¯ç·šæœå°‹(å®Œå…¨ç†è§£)
 	public static boolean findPath(char m[][], int x, int y) {
 		System.out.println("=========================");
 		System.out.println("x=" +x+" y="+y);
@@ -22,21 +22,21 @@ class Mouse
 		if (x>=6||y>=8) return false;
 		if (m[x][y] == '*') return false;
 		if (m[x][y] == '+') return false;
-		if (m[x][y] == ' ') m[x][y] = '.';
+		if (m[x][y] == ' ') m[x][y] = '.';//æ­¤è¡Œæ˜¯å¦å¤–åŠ ä¸Šå»çš„
 		if (m[x][y] == '.' && (x == 5 || y==7)) 
 			return true;
-		if (y<7&&m[x][y+1]==' ')//¦V¥k
+		if (y<7&&m[x][y+1]==' ')//å‘å³
 			if (findPath(m, x,y+1)) return true;
-		if(x<5&&m[x+1][y]==' ')//¦V¤U
+		if(x<5&&m[x+1][y]==' ')//å‘ä¸‹
 			if (findPath(m, x+1,y)) return true;
-		if(y>0&&m[x][y-1]==' ')//¦V¥ª
+		if(y>0&&m[x][y-1]==' ')//å‘å·¦
 			if (findPath(m, x,y-1)) return true;
-		if(x>0&&m[x-1][y]==' ')//¦V¤W
+		if(x>0&&m[x-1][y]==' ')//å‘ä¸Š
 			if (findPath(m, x-1,y)) return true;
 		m[x][y]='.';
 		return false; 
     }
-	//¦a¹Ï(§¹¥ş²z¸Ñ)
+	//åœ°åœ–(å®Œå…¨ç†è§£)
 	public static void main(String arges[])
     {
         char m[][]={
