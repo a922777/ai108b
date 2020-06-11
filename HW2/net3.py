@@ -1,6 +1,6 @@
 from net import Net
 net = Net()
-##小幅修改
+##部分理解，小幅修改
 x = net.variable(1)
 y = net.variable(2)
 z = net.variable(3)
