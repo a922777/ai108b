@@ -19,17 +19,23 @@ Min_samples_split: 至少要多少樣本以上才進行切分
 
 Min_samples_lear: 最終的葉子 (節點) 上至少要有多少樣本
 
-	訊息增益 (Information Gain)
-	決策樹模型會用 features 切分資料，該選用哪個 feature 來切分則是由訊息
-	增益的大小決定的。希望切分後的資料相似程度很高，通常使用吉尼係數(gini)來
-	衡量相似程度。
+## 訊息增益 (Information Gain)
+決策樹模型會用 features 切分資料，該選用哪個 feature 來切分則是由訊息
 
-	函數計算準確率 (accuracy_score)
-	不管是正確預測的fraction（default），還是count(normalize=False)。
-	在multilabel分類中，該函數會返回子集的準確率。如果對於一個樣本來說，必須嚴格匹配真實資料集中的label，
-	整個集合的預測標籤返回1.0；否則返回0.0.
-	預測值與真實值的準確率，在n個樣本下的計算公式如下：
-	accuracy(y,ŷ )=1nsamples∑i=0nsamples−1l(ŷ i=yi)accuracy(y,y^)=1nsamples∑i=0nsamples−1l(y^i=yi)
+增益的大小決定的。希望切分後的資料相似程度很高，通常使用吉尼係數(gini)來
+
+衡量相似程度。
+
+## 函數計算準確率 (accuracy_score)
+不管是正確預測的fraction（default），還是count(normalize=False)。
+
+在multilabel分類中，該函數會返回子集的準確率。如果對於一個樣本來說，必須嚴格匹配真實資料集中的label，
+
+整個集合的預測標籤返回1.0；否則返回0.0.
+
+預測值與真實值的準確率，在n個樣本下的計算公式如下：
+
+accuracy(y,ŷ )=1nsamples∑i=0nsamples−1l(ŷ i=yi)accuracy(y,y^)=1nsamples∑i=0nsamples−1l(y^i=yi)
 	
 	特徵名稱 (feature_names)
 	以鳶尾花(iris)來說明:
