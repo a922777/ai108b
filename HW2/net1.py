@@ -1,3 +1,4 @@
+##程式沒修改(部分理解)
 from net import Net
 net = Net()
 
