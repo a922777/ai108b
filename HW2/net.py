@@ -1,3 +1,4 @@
+##程式沒修改(部分可以理解)
 class Node:
     def __init__(self, v = 0, g = 0):
         self.v = v # 輸出值 (f(x))
