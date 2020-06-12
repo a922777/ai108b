@@ -10,7 +10,7 @@ class Mouse
 		}
     }
 	
-	//不理解(此行有寫沒寫 程式好像不影響?)
+	//不太理解
 	/*public static strset(String s,int i,char c) {
         return s.substring(0, i) + c + s.substring(i+1);
     }*/
@@ -22,7 +22,7 @@ class Mouse
 		if (x>=6||y>=8) return false;
 		if (m[x][y] == '*') return false;
 		if (m[x][y] == '+') return false;
-		if (m[x][y] == ' ') m[x][y] = '.';//此行是另外加上去的
+		if (m[x][y] == ' ') m[x][y] = '.';//此行是修改的部分,原程式碼 m[x] = strset(m[x], y, '.');
 		if (m[x][y] == '.' && (x == 5 || y==7)) 
 			return true;
 		if (y<7&&m[x][y+1]==' ')//向右
