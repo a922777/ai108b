@@ -1,6 +1,6 @@
 class Mouse
 {
-	//印出地圖(完全理解)
+	//印出地圖(完全理解，for迴圈有修改)
 	public static void matrixPrint(char m[][]) {
         for(char[]row:m)
 		{
@@ -14,7 +14,7 @@ class Mouse
 	/*public static strset(String s,int i,char c) {
         return s.substring(0, i) + c + s.substring(i+1);
     }*/
-	//路線搜尋(完全理解)
+	//路線搜尋(完全理解，小幅修改)
 	public static boolean findPath(char m[][], int x, int y) {
 		System.out.println("=========================");
 		System.out.println("x=" +x+" y="+y);
@@ -36,7 +36,7 @@ class Mouse
 		m[x][y]='.';
 		return false; 
     }
-	//地圖(完全理解)
+	//地圖(完全理解，無修改)
 	public static void main(String arges[])
     {
         char m[][]={
