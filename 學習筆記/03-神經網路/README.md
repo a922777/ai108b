@@ -1,10 +1,11 @@
 ## 神經網路
 ## diff
-程式碼沒修改(執行OK，可以理解)
-[Result](https://github.com/a922777/ai108b/blob/master/%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98/02-%E7%88%AC%E5%B1%B1%E6%BC%94%E7%AE%97%E6%B3%95/Result4.md)
-
+程式碼沒修改(執行OK，可以理解)  
+[Result](https://github.com/a922777/ai108b/blob/master/%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98/03-%E7%A5%9E%E7%B6%93%E7%B6%B2%E8%B7%AF/Result.md)
 
 ## vecGradient
+程式碼沒修改(執行OK，可以理解)  
+[Result](https://github.com/a922777/ai108b/blob/master/%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98/03-%E7%A5%9E%E7%B6%93%E7%B6%B2%E8%B7%AF/Result2.md)
 
 ## 程式碼參考來源
 [老師的課堂範例](https://github.com/ccccourse/ai/tree/master/python/03-neuralnet/04-net)
