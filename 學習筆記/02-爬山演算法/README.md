@@ -12,6 +12,9 @@
     
 模擬退火 SA (Simulated annealing) 演算法改進了爬山演算法的部分缺點，採用以溫度調控的機率特性，讓爬山演算法有機會跳脫較差的區域，因而找到更好的解。但是，當較好的區域距離目前所在地區較遠時，模擬退火演算法通常難以逆向爬升脫離較大的山谷。
 
+## 梯度下降法
+梯度下降法（英語：Gradient descent）是一個一階最佳化算法，通常也稱為最陡下降法，但是不該與近似積分的最陡下降法（英語：Method of steepest descent）混淆。 要使用梯度下降法找到一個函數的局部極小值，必須向函數上當前點對應梯度（或者是近似梯度）的反方向的規定步長距離點進行疊代搜索。如果相反地向梯度正方向疊代進行搜索，則會接近函數的局部極大值點；這個過程則被稱為梯度上升法。
+
 ## hillClimbing1
 程式碼沒修改(執行OK，可以理解)  
 [return -1*(x*x-2*x+1)](https://github.com/a922777/ai108b/blob/master/%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98/02-%E7%88%AC%E5%B1%B1%E6%BC%94%E7%AE%97%E6%B3%95/Result1.md)\
@@ -34,3 +37,4 @@
 ## 文章參考來源
 
 [爬山演算法](http://ccckmit.wikidot.com/so:hillclimbing)
+[梯度下降法](https://zh.wikipedia.org/wiki/%E6%A2%AF%E5%BA%A6%E4%B8%8B%E9%99%8D%E6%B3%95)
