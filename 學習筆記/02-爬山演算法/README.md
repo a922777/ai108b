@@ -1,6 +1,17 @@
 ## 簡介
 爬山演算法 HC (Hill-Climbing Algorithm) 是單粒子型算法中最簡單的一種，實作相當容易，且執行速度很快。因此，經常被用來作為各種最佳化演算法的比較基準。但是，由於爬山演算法只尋找鄰近的點進行比較，而且不允許向較差的方向行走，這使得爬山演算法很容易落入山谷區而無法跳出。因而喪失找到更好解的機會
 
+## 爬山演算法
+    Algorithm Hill-Climbing(pi)
+      p = pi // 設定粒子 p 為起始粒子 pi
+      while not isEnd()
+        pn = move(p) //選擇粒子p的鄰居pn
+        if pn.energy()<=p.energy() //能量更低，就接受
+          p = pn;
+    End Algorithm
+    
+模擬退火 SA (Simulated annealing) 演算法改進了爬山演算法的部分缺點，採用以溫度調控的機率特性，讓爬山演算法有機會跳脫較差的區域，因而找到更好的解。但是，當較好的區域距離目前所在地區較遠時，模擬退火演算法通常難以逆向爬升脫離較大的山谷。
+
 ## hillClimbing1
 程式碼沒修改(執行OK，可以理解)  
 [return -1*(x*x-2*x+1)](https://github.com/a922777/ai108b/blob/master/%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98/02-%E7%88%AC%E5%B1%B1%E6%BC%94%E7%AE%97%E6%B3%95/Result1.md)\
