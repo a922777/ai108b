@@ -9,22 +9,27 @@
 擁有範數的向量空間就是賦範向量空間。同樣，擁有半範數的向量空間就是賦半範向量空間。
 ## diff
 程式碼沒修改(執行OK，可以理解)  
+[diff.py](https://github.com/a922777/ai108b/blob/master/%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98/03-%E7%A5%9E%E7%B6%93%E7%B6%B2%E8%B7%AF/diff.py)\
 [Result](https://github.com/a922777/ai108b/blob/master/%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98/03-%E7%A5%9E%E7%B6%93%E7%B6%B2%E8%B7%AF/Result.md)
 
 ## vecGradient
 程式碼沒修改(執行OK，可以理解)  
+[vecGradient.py](https://github.com/a922777/ai108b/blob/master/%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98/03-%E7%A5%9E%E7%B6%93%E7%B6%B2%E8%B7%AF/vecGradient.py)\
 [Result](https://github.com/a922777/ai108b/blob/master/%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98/03-%E7%A5%9E%E7%B6%93%E7%B6%B2%E8%B7%AF/Result2.md)
 
 ## net1
 程式碼沒修改(執行OK，可以理解)  
+[net1.py](https://github.com/a922777/ai108b/blob/master/%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98/03-%E7%A5%9E%E7%B6%93%E7%B6%B2%E8%B7%AF/net1.py)\
 [Result](https://github.com/a922777/ai108b/blob/master/%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98/03-%E7%A5%9E%E7%B6%93%E7%B6%B2%E8%B7%AF/net1.md)
 
 ## net2
 程式碼沒修改(執行OK，可以理解)  
+[net2.py](https://github.com/a922777/ai108b/blob/master/%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98/03-%E7%A5%9E%E7%B6%93%E7%B6%B2%E8%B7%AF/net2.py)\
 [Result](https://github.com/a922777/ai108b/blob/master/%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98/03-%E7%A5%9E%E7%B6%93%E7%B6%B2%E8%B7%AF/net2.md)
 
 ## net3
 程式碼沒修改(執行OK，可以理解)  
+[net3.py](https://github.com/a922777/ai108b/blob/master/%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98/03-%E7%A5%9E%E7%B6%93%E7%B6%B2%E8%B7%AF/net3.py)\
 [Result](https://github.com/a922777/ai108b/blob/master/%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98/03-%E7%A5%9E%E7%B6%93%E7%B6%B2%E8%B7%AF/net3.md)
 
 ## 文章參考來源
