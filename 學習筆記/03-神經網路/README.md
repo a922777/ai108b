@@ -11,7 +11,7 @@
 程式碼沒修改(執行OK，可以理解)  
 [diff.py](https://github.com/a922777/ai108b/blob/master/%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98/03-%E7%A5%9E%E7%B6%93%E7%B6%B2%E8%B7%AF/diff.py)\
 [Result](https://github.com/a922777/ai108b/blob/master/%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98/03-%E7%A5%9E%E7%B6%93%E7%B6%B2%E8%B7%AF/Result.md)
-[偏微分的觀念](https://github.com/a922777/ai108b/blob/master/%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98/03-%E7%A5%9E%E7%B6%93%E7%B6%B2%E8%B7%AF/%E5%81%8F%E5%BE%AE%E5%88%86%E7%9A%84%E8%A7%80%E5%BF%B5.jpg)
+
 ## vecGradient
 程式碼沒修改(執行OK，可以理解)  
 [vecGradient.py](https://github.com/a922777/ai108b/blob/master/%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98/03-%E7%A5%9E%E7%B6%93%E7%B6%B2%E8%B7%AF/vecGradient.py)\
