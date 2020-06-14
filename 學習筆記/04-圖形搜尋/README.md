@@ -9,9 +9,11 @@
 
 ## graph_search
 程式碼沒修改(執行OK，部分可以理解)\
+[graph_search.py](https://github.com/a922777/ai108b/blob/master/%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98/04-%E5%9C%96%E5%BD%A2%E6%90%9C%E5%B0%8B/graph_search.py)\
 [Result](https://github.com/a922777/ai108b/blob/master/%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98/04-%E5%9C%96%E5%BD%A2%E6%90%9C%E5%B0%8B/graph_search.md)
 ## puzzleSearch
 程式碼沒修改(執行OK，部分可以理解)\
+[puzzleSearch.py](https://github.com/a922777/ai108b/blob/master/%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98/04-%E5%9C%96%E5%BD%A2%E6%90%9C%E5%B0%8B/puzzleSearch.py)\
 [Result](https://github.com/a922777/ai108b/blob/master/%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98/04-%E5%9C%96%E5%BD%A2%E6%90%9C%E5%B0%8B/puzzleSearch.md)
 ## 文章參考來源
 
