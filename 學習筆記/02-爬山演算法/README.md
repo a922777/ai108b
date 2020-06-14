@@ -30,3 +30,7 @@
 ## 程式碼參考來源
 
 [老師的課堂範例](https://github.com/ccccourse/ai/tree/master/python/02-optimize)
+
+## 文章參考來源
+
+[爬山演算法](http://ccckmit.wikidot.com/so:hillclimbing)
