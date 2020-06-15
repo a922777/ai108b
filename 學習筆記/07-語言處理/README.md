@@ -4,16 +4,16 @@
 * [bullshit](https://github.com/StillFantastic/bullshit?fbclid=IwAR0KwwqnNlLqMKfuObas0uB7wGejPyu6xVfsxItEsQ-Hj9UyaE3IzD4fld4)
 * [data.json](https://github.com/StillFantastic/bullshit/blob/master/generator/data.json?fbclid=IwAR0YV2yk7-WPHSpd-JBsAGukl-K-mXQsKoox30RthjpF7vz5zszERLrfeQ8)
 ## eliza
-程式碼沒修改(執行OK，可以理解)
-[eliza](https://github.com/a922777/ai108b/blob/master/%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98/07-%E8%AA%9E%E8%A8%80%E8%99%95%E7%90%86/eliza.py)
+程式碼沒修改(執行OK，可以理解)\
+[eliza](https://github.com/a922777/ai108b/blob/master/%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98/07-%E8%AA%9E%E8%A8%80%E8%99%95%E7%90%86/eliza.py)\
 [Result](https://github.com/a922777/ai108b/blob/master/%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98/07-%E8%AA%9E%E8%A8%80%E8%99%95%E7%90%86/eliza.md)
 ## jieba1
-程式碼沒修改(執行OK，可以理解)
-[jieba1](https://github.com/a922777/ai108b/blob/master/%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98/07-%E8%AA%9E%E8%A8%80%E8%99%95%E7%90%86/jieba1.py)
+程式碼沒修改(執行OK，可以理解)\
+[jieba1](https://github.com/a922777/ai108b/blob/master/%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98/07-%E8%AA%9E%E8%A8%80%E8%99%95%E7%90%86/jieba1.py)\
 [Result](https://github.com/a922777/ai108b/blob/master/%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98/07-%E8%AA%9E%E8%A8%80%E8%99%95%E7%90%86/jieba1.md)
 ## gen_english1
-程式碼沒修改(執行OK，可以理解)
-[gen_english1](https://github.com/a922777/ai108b/blob/master/%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98/07-%E8%AA%9E%E8%A8%80%E8%99%95%E7%90%86/gen_english1.py)
+程式碼沒修改(執行OK，可以理解)\
+[gen_english1](https://github.com/a922777/ai108b/blob/master/%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98/07-%E8%AA%9E%E8%A8%80%E8%99%95%E7%90%86/gen_english1.py)\
 [Result](https://github.com/a922777/ai108b/blob/master/%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98/07-%E8%AA%9E%E8%A8%80%E8%99%95%E7%90%86/gen_english1.md)
 ## 文章參考來源
 * [唬爛產生器](https://howtobullshit.me/)
