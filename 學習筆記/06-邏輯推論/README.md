@@ -2,16 +2,16 @@
 
 ## kbTest
 程式碼沒修改(執行OK，可以理解)\
-[kbTest]()
-[Result]()
+[kbTest](https://github.com/a922777/ai108b/blob/master/%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98/06-%E9%82%8F%E8%BC%AF%E6%8E%A8%E8%AB%96/kbTest.py)\
+[Result](https://github.com/a922777/ai108b/blob/master/%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98/06-%E9%82%8F%E8%BC%AF%E6%8E%A8%E8%AB%96/kbTest.md)
 ## kbReason
 程式碼沒修改(執行OK，可以理解)\
-[kbReason]()
-[Result]()
+[kbReason](https://github.com/a922777/ai108b/blob/master/%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98/06-%E9%82%8F%E8%BC%AF%E6%8E%A8%E8%AB%96/kbReason.py)\
+[Result](https://github.com/a922777/ai108b/blob/master/%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98/06-%E9%82%8F%E8%BC%AF%E6%8E%A8%E8%AB%96/kbReason.md)
 ## kbQuery
 程式碼沒修改(執行OK，可以理解)\
-[kbQuery]()
-[Result]()
+[kbQuery](https://github.com/a922777/ai108b/blob/master/%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98/06-%E9%82%8F%E8%BC%AF%E6%8E%A8%E8%AB%96/kbQuery.py)\
+[Result](https://github.com/a922777/ai108b/blob/master/%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98/06-%E9%82%8F%E8%BC%AF%E6%8E%A8%E8%AB%96/kbQuery.md)
 
 ## 文章參考來源
 * [邏輯推論](https://misavo.com/blog/%E9%99%B3%E9%8D%BE%E8%AA%A0/%E6%9B%B8%E7%B1%8D/%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7/06-%E9%82%8F%E8%BC%AF%E6%8E%A8%E8%AB%96?fbclid=IwAR0ZrDeSPvfjJ-ydhZ0oMyCNKYEIfXF6hi0uOKu0mQg7JmvujqycH09KjfM)
