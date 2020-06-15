@@ -32,12 +32,10 @@
 [hillClimbingNumber](https://github.com/a922777/ai108b/blob/master/%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98/02-%E7%88%AC%E5%B1%B1%E6%BC%94%E7%AE%97%E6%B3%95/hillClimbingNumber.py)\
 [Result](https://github.com/a922777/ai108b/blob/master/%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98/02-%E7%88%AC%E5%B1%B1%E6%BC%94%E7%AE%97%E6%B3%95/hillClimbingNumber.md)
 
-
-## 程式碼參考來源
-
-* [02-optimize](https://github.com/ccccourse/ai/tree/master/python/02-optimize)
-
 ## 文章參考來源
 
 * [爬山演算法](http://ccckmit.wikidot.com/so:hillclimbing)
 * [梯度下降法](https://zh.wikipedia.org/wiki/%E6%A2%AF%E5%BA%A6%E4%B8%8B%E9%99%8D%E6%B3%95)
+## 程式碼參考來源
+
+* [02-optimize](https://github.com/ccccourse/ai/tree/master/python/02-optimize)
