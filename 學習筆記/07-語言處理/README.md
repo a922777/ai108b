@@ -27,3 +27,4 @@
 ## 程式碼參考來源
 * [bullshit](https://github.com/StillFantastic/bullshit?fbclid=IwAR0KwwqnNlLqMKfuObas0uB7wGejPyu6xVfsxItEsQ-Hj9UyaE3IzD4fld4)
 * [data.json](https://github.com/StillFantastic/bullshit/blob/master/generator/data.json?fbclid=IwAR0YV2yk7-WPHSpd-JBsAGukl-K-mXQsKoox30RthjpF7vz5zszERLrfeQ8)
+* [07-nlp](https://github.com/a922777/ai/tree/master/python/07-nlp)
