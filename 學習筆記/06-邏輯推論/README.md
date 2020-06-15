@@ -1,9 +1,18 @@
 # 邏輯推論
-程式碼沒修改(部分可以理解)
+
 ## kbTest
+程式碼沒修改(執行OK，可以理解)\
+[kbTest]()
+[Result]()
 ## kbReason
-## kb
+程式碼沒修改(執行OK，可以理解)\
+[kbReason]()
+[Result]()
 ## kbQuery
+程式碼沒修改(執行OK，可以理解)\
+[kbQuery]()
+[Result]()
+
 ## 文章參考來源
 * [邏輯推論](https://misavo.com/blog/%E9%99%B3%E9%8D%BE%E8%AA%A0/%E6%9B%B8%E7%B1%8D/%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7/06-%E9%82%8F%E8%BC%AF%E6%8E%A8%E8%AB%96?fbclid=IwAR0ZrDeSPvfjJ-ydhZ0oMyCNKYEIfXF6hi0uOKu0mQg7JmvujqycH09KjfM)
 * [布林邏輯與公理系統](https://misavo.com/blog/%E9%99%B3%E9%8D%BE%E8%AA%A0/%E6%9B%B8%E7%B1%8D/%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7/06-%E9%82%8F%E8%BC%AF%E6%8E%A8%E8%AB%96/A-%E9%82%8F%E8%BC%AF%E6%8E%A8%E8%AB%96%E7%B0%A1%E4%BB%8B?fbclid=IwAR0v_lP7udtgEU-NGyoJ0gPMiyxJ2D6LRL-cfNwR65AnEmTXfodaJhJTI5w)
