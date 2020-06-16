@@ -43,5 +43,5 @@ def diff(f, x):
 * [範數](https://zh.wikipedia.org/wiki/%E8%8C%83%E6%95%B0?fbclid=IwAR07RAAlaj2txKRkYuwT27TMO-IkZdPs52v61C-1461wqi3cwIijHMdgzs4)
 
 ## 程式碼參考來源
-[03-neuralnet](https://github.com/ccccourse/ai/tree/master/python/03-neuralnet)
+* [03-neuralnet](https://github.com/ccccourse/ai/tree/master/python/03-neuralnet)
 
