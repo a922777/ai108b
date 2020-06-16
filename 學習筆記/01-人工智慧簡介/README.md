@@ -49,4 +49,4 @@
 
 
 ## 其他內容轉載至
-http://163.28.10.78/content/senior/computer/ks_ks/et/ai/chap1/index.htm
+* http://163.28.10.78/content/senior/computer/ks_ks/et/ai/chap1/index.htm
