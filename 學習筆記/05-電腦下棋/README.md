@@ -12,4 +12,4 @@ Minimax演算法常用於棋類等由兩方較量的遊戲和程式。該演算�
 * [min-max 算法](https://zh.wikipedia.org/wiki/%E6%9E%81%E5%B0%8F%E5%8C%96%E6%9E%81%E5%A4%A7%E7%AE%97%E6%B3%95?fbclid=IwAR1Z6yT4vJakiRyxj2K3FDab7I1QWmMDSkvfuWNu9NzQRj67TvI-sWqtujc)
 
 ## 程式碼參考來源
-[05-chess](https://github.com/ccccourse/ai/tree/master/python/05-chess)
+* [05-chess](https://github.com/ccccourse/ai/tree/master/python/05-chess)
