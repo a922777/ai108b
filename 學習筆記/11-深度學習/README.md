@@ -14,3 +14,6 @@
 
 * [【ICIP 2019直擊】卷積神經網路之父Yann LeCun：自監督式學習更像人類學習，能突破現有深度學習的侷限](https://www.ithome.com.tw/news/133264)
 
+# 程式碼參考來源
+https://github.com/a922777/ai/tree/master/python/11-deepLearning
+
