@@ -46,7 +46,7 @@ $ pip install opencv-contrib-python-headless // opencv 的視窗介面 (精簡�
 [Result](https://github.com/a922777/ai108b/blob/master/%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98/08-%E7%A7%91%E5%AD%B8%E8%A8%88%E7%AE%97/calculus/sym_pintegrate1.md)
 
 ## 文章參考來源
-[Integral](https://en.wikipedia.org/wiki/Integral?fbclid=IwAR0sRnx-tEVF61hdPQgEVlxc6hXuezGcVzU0JhV_vE4-P2UCGwnpeAhiPR4)
+* [Integral](https://en.wikipedia.org/wiki/Integral?fbclid=IwAR0sRnx-tEVF61hdPQgEVlxc6hXuezGcVzU0JhV_vE4-P2UCGwnpeAhiPR4)
 ## 程式碼參考來源
-[08-scientific](https://github.com/a922777/ai/tree/master/python/08-scientific)
+* [08-scientific](https://github.com/a922777/ai/tree/master/python/08-scientific)
 
