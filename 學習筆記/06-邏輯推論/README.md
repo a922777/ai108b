@@ -44,4 +44,4 @@
 * [λ演算](https://misavo.com/blog/%E9%99%B3%E9%8D%BE%E8%AA%A0/%E6%9B%B8%E7%B1%8D/%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7/06-%E9%82%8F%E8%BC%AF%E6%8E%A8%E8%AB%96/A3-%CE%BB%E6%BC%94%E7%AE%97?fbclid=IwAR2nQ3LXUVR8oz3jAmgQaUiKwHihOq-R7Jc0uS5gpLxDhVatTLNUab6tNxw)
 ## 程式碼參考來源
 
-[06-logic](https://github.com/ccccourse/ai/tree/master/python/06-logic)
+* [06-logic](https://github.com/ccccourse/ai/tree/master/python/06-logic)
